@@ -23,8 +23,8 @@ A Python-based SQLite AI agent that can understand natural language queries and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pakagronglb/sqlite-ai-agent.git
-cd sqlite-ai-agent
+git clone https://github.com/pakagronglb/pydanticai-agent-sqlite.git
+cd pydanticai-agent-sqlite
 ```
 
 2. Install required dependencies:
@@ -96,5 +96,3 @@ This project is for educational purposes only. Always ensure proper security mea
 ## 📧 Contact
 
 Pakagrong Lebel - [pakagronglebel@gmail.com](mailto:pakagronglebel@gmail.com)
-
-Project Link: [https://github.com/pakagronglb/sqlite-ai-agent](https://github.com/pakagronglb/sqlite-ai-agent)
